@@ -10,4 +10,5 @@ return {
   --   end,
   -- },
   "nvim-lua/plenary.nvim",
+  "EtiamNullam/deferred-clipboard.nvim",
 }
